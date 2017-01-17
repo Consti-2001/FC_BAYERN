@@ -5,6 +5,9 @@ text-align:right}
 
 #header img{
       height: 70px;
-      float: left;
+      float:center;
 }
-navbar{color:#ff4d4d}
+
+navbar {
+      color: #ff4d4d;
+}
