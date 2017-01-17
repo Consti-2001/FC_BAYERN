@@ -11,14 +11,18 @@ text-align:right}
 .navbar {
       background-color: #990000;
 }
-p1{font-size:15px;
-      font-weight:bold
-
-
+p1
+ { 
+            font-weight:bold; 
+            font-style: italic; 
+            font-family: 'Arial'; 
 }
 
 #myCarousel{
 width:500px;
 margin:auto;
 }
+.container{
+background-color:#F5CCCC
 
+}
