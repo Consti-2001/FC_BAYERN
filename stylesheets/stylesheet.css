@@ -1,6 +1,6 @@
 h1{font-size:80px;
       font-family:Bernard MT Condensed;
-      color:#660000;
+      color:#b30000;
 text-align:right}
 
 #header img{
@@ -8,6 +8,6 @@ text-align:right}
       float:center;
 }
 
-navbar {
+#navbar {
       color:#ff4d4d;
 }
