@@ -1,4 +1,4 @@
-h1{font-size:80px;
+h1{font-size:120px;
       font-family:Bernard MT Condensed;
       color:#b30000;
 text-align:right}
@@ -8,6 +8,11 @@ text-align:right}
       float:center;
 }
 
-#container {
+#navbar {
       color:#ff4d4d;
+}
+p1{font-size:20px;
+      font-style:kursiv
+
+
 }
